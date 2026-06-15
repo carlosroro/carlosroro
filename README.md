@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/168224408?v=4" width="250" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=7EB8D4&center=true&vCenter=true&width=800&lines=Hola%2C+soy+Carlos+Romero+%F0%9F%91%8B;Full-Stack+Developer;Apasionado+por+la+web" alt="Typing SVG" />
+  </a>
 </p>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=7EB8D4&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Carlos+Romero+%F0%9F%91%8B;Full-Stack+Developer;Apasionado+por+la+web)](https://git.io/typing-svg)
 
 <p align="center">
   <strong>Full-Stack Developer · Finalizando DAW · Abierto a oportunidades 🚀</strong>
